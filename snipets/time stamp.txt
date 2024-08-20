@@ -1,0 +1,23 @@
+4:14
+
+
+
+https://blog.koladev.xyz/fullstack-next-js-django-authentication-django-rest-typescript-jwt-wretch-djoser-467aaabac192
+https://dev.to/koladev/building-a-fullstack-application-with-django-django-rest-nextjs-3e26
+
+
+
+
+
+00:00:00 — Intro
+00:05:51 — Setup
+00:18:31 — HomePage
+00:59:20 — Appwrite
+01:21:52 — Registration Page
+02:39:15 — Appointment Page
+03:04:53 — Success Page
+03:19:27 — Admin Passcode Verification
+03:36:23 — Admin Dashboard
+04:46:07 — Sentry - Securing the App
+05:06:20 — SMS Notifications
+05:18:50 — Deployment

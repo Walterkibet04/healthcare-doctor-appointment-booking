@@ -1,0 +1,35 @@
+npm install react-phone-number-input --save
+checkbox
+select
+
+
+create patient model
+
+max-length=100
+name - type string  required 
+userid - string  required 
+email - email     required 
+name - string     required 
+privacyConsent boolean   required 
+gender - enum (male, female, other) required 
+birthDate - string
+address - string
+occupation - string
+emergencyContactName - string
+emergencyContactNumber - string
+insuranceProvider - string
+insurancePolicyNumber - string
+allergies - string
+currentMedicaton - string
+familyMedicalHistory - string
+pastMedicalHistory - string
+identificationType - string
+identificationNumber - string
+identificationDocumentId - string
+identificationDocumentUrl - string 200
+primaryPhysician - string
+
+
+
+create doctor model
+create appointments model
