@@ -290,15 +290,15 @@
 .react-datepicker__day-name,
 .react-datepicker__day,
 .react-datepicker-time__header {
-  background-color: #1a1d21 !important;
+  background-color: #fafafa !important;
   border-color: #363a3d !important;
-  color: #abb8c4 !important;
+  color: #303651 !important;
 }
 
 .react-datepicker__current-month,
 .react-datepicker__day-name,
 .react-datepicker-time__header {
-  color: #ffffff !important;
+  color: #303651 !important;
 }
 
 .react-datepicker__triangle {
@@ -308,11 +308,11 @@
 }
 
 .react-datepicker__time-list-item:hover {
-  background-color: #363a3d !important;
+  background-color: #fafafa !important;
 }
 
 .react-datepicker__input-container input {
-  background-color: #1a1d21 !important;
+  background-color: #ffffff !important;
   width: 100%;
   outline: none;
 }
@@ -328,7 +328,7 @@
 }
 
 .react-datepicker__time-container {
-  border-left: 1px solid #363a3d !important;
+  border-left: 1px solid #363a3d  !important;
 }
 
 .react-datepicker__time-list-item {
@@ -339,6 +339,7 @@
 /* =====  REACT PHONE NUMBER INPUT OVERRIDES */
 .PhoneInputInput {
   outline: none;
+  border: none;
   margin-left: 4px;
   background: #ffffff;
   font-size: 14px;
@@ -346,5 +347,5 @@
 }
 
 .PhoneInputInput::placeholder {
-  color: #76828D;
+  color: #303651;
 }

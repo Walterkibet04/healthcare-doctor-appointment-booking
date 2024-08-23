@@ -1,6 +1,14 @@
-npm install react-phone-number-input --save
-checkbox
-select
+npx shadcn-ui@latest add radio-group
+npx shadcn-ui@latest add select
+npm install --save react-dropzone
+
+
+
+
+
+
+
+
 
 
 create patient model

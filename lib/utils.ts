@@ -75,3 +75,13 @@ export function encryptKey(passkey: string) {
 export function decryptKey(passkey: string) {
   return atob(passkey);
 }
+
+export const getBufferImage = async(fileInfo: File) => {
+  try {
+    const bytes = await fileInfo.arrayBuffer();
+    const bufferImage = Buffer.from(bytes);
+    return bufferImage;
+  } catch (error) {
+    throw error
+  }
+}
