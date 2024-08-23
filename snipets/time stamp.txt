@@ -1,5 +1,4 @@
-2:15
-2:37:42 add treatmentConsent and disclosureConsent
+3:19
 
 
 https://blog.koladev.xyz/fullstack-next-js-django-authentication-django-rest-typescript-jwt-wretch-djoser-467aaabac192
