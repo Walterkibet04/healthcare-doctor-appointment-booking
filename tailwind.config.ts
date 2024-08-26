@@ -38,6 +38,7 @@ const config = {
         light: {
           200: "#E8E9E9",
           300: "#ffffff",
+          400: "#fafafa"
         },
         dark: {
           200: "#0D0F10",

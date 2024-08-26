@@ -1,4 +1,4 @@
-3:19
+3:57
 
 
 https://blog.koladev.xyz/fullstack-next-js-django-authentication-django-rest-typescript-jwt-wretch-djoser-467aaabac192
