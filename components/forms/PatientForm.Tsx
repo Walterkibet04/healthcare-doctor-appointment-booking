@@ -91,3 +91,4 @@ export const PatientForm = () => {
   );
 };
 
+export default PatientForm
